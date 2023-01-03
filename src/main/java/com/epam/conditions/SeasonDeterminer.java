@@ -26,6 +26,7 @@ public class SeasonDeterminer {
                 break;
             default:
                 System.out.println("Wrong month number");
+}
 
     }
 
